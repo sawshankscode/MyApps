@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763849838600",
+    "firebase_url": "https://vibezv1.firebaseio.com",
+    "project_id": "vibezv1",
+    "storage_bucket": "vibezv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763849838600:android:3cdbe30de40f69f4ecc1bd",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763849838600-amomrd4j9r2epuagracrghcbkoh24fe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UD4K_C5TWEfFlMf5Kl8hhksiPFRUuRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763849838600-amomrd4j9r2epuagracrghcbkoh24fe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
