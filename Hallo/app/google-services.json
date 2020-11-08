@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570089279965",
+    "firebase_url": "https://hallov1.firebaseio.com",
+    "project_id": "hallov1",
+    "storage_bucket": "hallov1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570089279965:android:c0a7113cafd9903b606634",
+        "android_client_info": {
+          "package_name": "com.example.hallo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570089279965-voj0kpha580cpgmqoul0ih0bcjdai5f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsF8t5Ljaopr6JEapqT4AIj8v5az01hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570089279965-voj0kpha580cpgmqoul0ih0bcjdai5f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -34,6 +34,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763849838600:android:ed1f7217de7fefd1ecc1bd",
+        "android_client_info": {
+          "package_name": "com.sawshank.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763849838600-amomrd4j9r2epuagracrghcbkoh24fe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UD4K_C5TWEfFlMf5Kl8hhksiPFRUuRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763849838600-amomrd4j9r2epuagracrghcbkoh24fe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
